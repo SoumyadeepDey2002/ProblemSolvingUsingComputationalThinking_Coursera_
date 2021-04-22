@@ -1,0 +1,71 @@
+Human Trafficking Practice Questions
+TOTAL POINTS 5
+1.
+Question 1
+During the decomposition process, you will need to break down the “big problem” into smaller “sub-problems.” In your own words, explain how the large issue of human trafficking was decomposed into smaller “sub-problems.” 
+
+1 / 1 point
+It can be decomposed into The scale of it like global, national and regional, or the process of it happening such as recruitment transportation and forced labor.
+Correct
+Answers can vary.
+
+Human trafficking was decomposed a variety of different ways. Human trafficking was decomposed by focusing on different scales (global, national, regional). It was also decomposed by focusing on different aspects of human trafficking, such as recruitment, transportation, and forced labor. 
+
+2.
+Question 2
+One way researchers are helping combat human trafficking is by analyzing the frequency of certain words posted on social media at a large event. For instance, the word “escort” commonly appears in social media posts advertising trafficked people for sexual exploitation. However, searching for all occurrences of “escort” yields many unwanted results—for example, when the posts are about a “Ford Escort” (car model) or a “police escort.” So it’s helpful to also eliminate results that contain the words “Ford” or “police.” Eliminating these results is an example of: 
+
+1 / 1 point
+
+Problem identification
+
+
+Abstraction
+
+
+Decomposition
+
+
+Pattern recognition
+
+Correct
+Correct! Eliminating extraneous variables or results is an aspect of abstraction.
+
+3.
+Question 3
+In the human trafficking case-study, "purchase" and "escort" were considered suspicious words in social media advertisements. If you were designing an algorithm that flagged suspicious human trafficking advertisements, what other words or phrases might be flagged as suspicious?
+
+1 / 1 point
+recruiting, social media ads, etc
+Correct
+Answers can vary.
+
+Some words or phrases that might be flagged as suspicious include: "trafficked," "forced," and "underage." 
+
+4.
+Question 4
+When designing an algorithm that flags suspicious human trafficking advertisements, you should be identifying questions that are specific, quantifiable, and relevant to your problem. Which question is specific, quantifiable, and relevant to human trafficking?
+
+1 / 1 point
+
+Which social media advertisements contain the words "purchase" and "escort"?
+
+
+What type of font does a particular social media advertisement use?
+
+
+Which social media advertisements are suspicious?
+
+Correct
+Correct! This question is specific and quantifiable because it asks for particular words. 
+
+5.
+Question 5
+When you are testing a new algorithm, it is a good idea to test it in a simplified, controlled environment. If you were designing a new algorithm that flags suspicious social media advertisements, how might you begin testing this algorithm?
+
+1 / 1 point
+I will start testing it on dummy social media accounts. I might also try to replicate historical data to produce more test cases.
+Correct
+Answers can vary. 
+
+You might consider testing testing the algorithm on only a few advertisements at first. After your algorithm works with a small number of advertisements, you could add in more. 
