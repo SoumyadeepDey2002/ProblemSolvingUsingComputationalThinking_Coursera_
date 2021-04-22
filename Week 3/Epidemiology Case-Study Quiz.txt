@@ -1,0 +1,109 @@
+Epidemiology Case-Study Quiz
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+In the epidemiology case study, we constructed the following algorithm:
+
+
+In this algorithm, S represents the number of people susceptible to infection, b represents the rate of infection, I represents the number of people infected, r represents the recovery rate, and R represents the number of people who have recovered from infection.
+
+Using this algorithm, what changes would we expect if more people washed their hands and covered their coughs during flu season?
+
+1 / 1 point
+
+ The rate of infection (b) would decrease, which would result in less infected people (I).
+
+
+The number of infected people (I) would increase, which would result in more recovered people (R).
+
+
+The recovery rate (r) would decrease, resulting in more recovered people (R).
+
+
+The number of susceptible people (S) would increase, which would result in an increased number of infected people (I).
+
+Correct
+Correct! If more people took flu prevention measures, the rate of infection would decrease, and less people would become infected.
+
+2.
+Question 2
+In the epidemiology case study, the SIR model accounted for the number of people susceptible to infection, the rate of infection, the number of people infected, the rate of recovery, and the number of people who recovered from the infection. If we wanted to create a more accurate model for predicting the spread of the flu, what information would be most relevant for this problem?
+
+1 / 1 point
+
+The migration patterns of infected people.
+
+
+The number of cell phone calls recovered people make in a day.
+
+
+The dental records of susceptible people in a given location.
+
+
+The amount of electricity people use in their homes.
+
+Correct
+Correct! Knowing the migration patterns of infected people could help predict locations where the flu might spread.
+
+3.
+Question 3
+Predicting the number of people who will become infected with the seasonal flu can be a complex problem. In computational thinking terms, describing this complex problem in such a way so that it can be solved by a computer is known as __________.
+
+1 / 1 point
+
+Evaluation
+
+
+Problem Identification
+
+
+Pattern Recognition
+
+
+Abstraction
+
+Correct
+Correct! Problem identification involves determining the problem that can be solved using a computer.
+
+4.
+Question 4
+In the epidemiology case study, the SIR model utilized the following information: the number of people susceptible to infection (S), the rate of infection (b), the number of people infected (I), the recovery rate (r), and the number of people who recovered from infection (R). This process of focusing on relevant information and ignoring less relevant information represents what computational thinking technique?
+
+1 / 1 point
+
+Evaluation
+
+
+Abstraction
+
+
+Problem Identification
+
+
+Decomposition
+
+Correct
+Correct! Abstraction involves recognizing what aspects of a problem are not important to know in order to solve it.
+
+5.
+Question 5
+In the epidemiology case study, we expanded on the original SIR model by adding information about vaccinations. The expanded model looked like this:
+
+
+In this expanded model, the number of vaccinations (V) decreases the number of people who are susceptible to infection (S). 
+
+Using this algorithm, what will happen to the number of people recovered (R) at the end of an epidemic if we increase V at the beginning?
+
+1 / 1 point
+
+The number of people recovered (R) will stay the same.
+
+
+The number of people recovered (R) will decrease.
+
+
+The number of people recovered (R) will increase.
+
+Correct
+Correct! Increasing the number of people vaccinated before an outbreak occurs means that fewer people will become infected, and, therefore, the total number of people who recover will decrease.

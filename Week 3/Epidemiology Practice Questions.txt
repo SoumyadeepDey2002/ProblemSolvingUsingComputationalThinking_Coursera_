@@ -1,0 +1,69 @@
+Epidemiology Practice Questions
+TOTAL POINTS 4
+1.
+Question 1
+In the epidemiology case study, we constructed the following model:
+
+
+In this model, S represents the number of people susceptible to infection, b represents the rate of infection, I represents the number of people infected, r represents the recovery rate, and R represents the number of people who have recovered from infection.
+
+Using this algorithm, what changes would we expect if people stopped washing their hands and covering their coughs during flu season?
+
+1 / 1 point
+
+The recovery rate (r) would decrease, resulting in more recovered people (R).
+
+
+The rate of infection (b) would decrease, which would result in less infected people (I).
+
+
+The rate of infection (b) would increase, which would result in more infected people (I) and ultimately more recovered people (R).
+
+Correct
+Correct! Washing your hands and covering your coughs helps prevent the spread of germs, so it’s likely that the rate of infection would increase, leading to more infected people, which could also cause a rise in recovered people. 
+
+2.
+Question 2
+In the epidemiology case study, what was one way decomposition was used to identify a sub-problem?
+
+1 / 1 point
+To find number of people getting infected every year.
+Correct
+Answers can vary.
+
+One sub-problem that was identified was: how can we predict the number of people who will get infected with the flu each year? This sub-problem helped answer a larger problem: How do we plan and prepare for the flu each year? 
+
+3.
+Question 3
+In the epidemiology case study, we expanded on the SIR model by adding information about vaccinations. The expanded model looked like this:
+
+
+In this expanded model, the number of vaccinations (V) decreases the number of people who are susceptible to infection (S). 
+
+Using this model, what would we expect to happen if we increased the number of vaccinated people (V)?
+
+1 / 1 point
+
+The number of infected people (I) will decrease.
+
+
+The number of recovered people (R) will increase.
+
+
+The infection rate (b) will increase.
+
+Correct
+Correct! Vaccinations cause a decrease in susceptible people. If there are less people susceptible to the flu, then there will likely be less infected people.
+
+4.
+Question 4
+When testing a new algorithm, it's usually best to run your algorithm on a simplified test case. For instance, in the airport surveillance case study, testing a new algorithm meant scanning video with lower resolution, or scanning shorter video clips. 
+
+Describe how you might test a new epidemiology algorithm that predicted the number of people prone to becoming infected with the flu. 
+
+1 / 1 point
+Test it in a place which has a low density of population.
+Correct
+Answers can vary.
+
+One way of testing a new algorithm in epidemiology would be to  focus on a small region or area. For instance, predicting the number of infected people in a city is easier than predicting the number of infected people globally. 
