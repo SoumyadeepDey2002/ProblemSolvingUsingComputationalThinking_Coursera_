@@ -1,0 +1,93 @@
+Airport Surveillance Practice Questions Set 1
+TOTAL POINTS 4
+1.
+Question 1
+As discussed in the Airport Surveillance case-study, computer-based solutions require questions that are specific and quantifiable. Based on these criteria, which of the following questions is most appropriate for a computer-based solution?
+
+1 / 1 point
+
+How can I monitor suspicious behavior?
+
+
+How do I distinguish between luggage that is moving, and luggage that is stationary? 
+
+
+How can I identify potentially dangerous luggage?
+
+
+All of the above could be solved by a computer.
+
+Correct
+Correct! Identifying whether or not luggage is moving is a specific and quantifiable question that a computer can solve. 
+
+2.
+Question 2
+True or False: Asking a computer to monitor “suspicious behavior” is a specific and quantifiable problem that is suitable for a computer-based solution.
+
+1 / 1 point
+
+True
+
+
+False
+
+Correct
+Correct! Monitoring suspicious behavior is too broad and subjective for a computer-based solution. It must be decomposed and refined to be solvable. 
+
+3.
+Question 3
+Decomposition consists of various layers of breaking down a problem. Consider managing security at a crowded public event. How would you decompose the task of identifying suspicious behavior at a concert? In other words, which of the following are possible sub-pieces of this problem? (Select all that apply).
+
+1 / 1 point
+
+Identify what song is being played at the concert.
+
+
+Identify suspicious packages left unattended and idle.
+
+Correct
+Correct! Unattended packages at a concert are not necessarily problematic, but they can be termed as suspicious and flagged for further investigation.
+
+
+Identify concert-goers who are consistently not paying attention to the musician.
+
+Correct
+Correct! People planning an attack or crime are not there to enjoy the music, so they may be paying more attention to other things and people.
+
+
+Identify what color shirts people are wearing at the concert.
+
+
+Identify possible weapons carried by concert-goers.
+
+Correct
+Correct! Carrying a weapon in a crowded event is suspicious and something for security officers to be aware of.
+
+4.
+Question 4
+Consider how you would further break down the task of “identifying possible weapons carried by concert-goers.” To help with this problem, you have at your disposal surveillance video from multiple angles, handheld metal detectors, and bag x-ray scanners at the venue entrances. Which of the following are possible pieces of information you will likely need to carry out the task? (Select all that apply).
+
+1 / 1 point
+
+What different kinds of weapons sound like.
+
+
+The value (price) of different kinds of weapons.
+
+
+Common ways of holding handheld weapons. 
+
+Correct
+Correct! Knowing how people carry weapons on their bodies is helpful when scanning with a handheld metal detector or analyzing surveillance videos.
+
+
+The shapes of different kinds of weapons.
+
+Correct
+Correct! Knowing the shapes of weapons is important both when looking through an x-ray scanner and when using computers to analyze surveillance videos.
+
+
+What material weapons are often made of.
+
+Correct
+Correct! Knowing the types of materials to look out for in an x-ray scanner is important for finding potential weapons in people’s bags.

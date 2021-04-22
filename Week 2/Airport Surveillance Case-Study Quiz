@@ -1,0 +1,103 @@
+Airport Surveillance Case-Study Quiz
+LATEST SUBMISSION GRADE
+100%
+1.
+Question 1
+Identifying suspicious behavior at an airport is a complex problem. In this case study, what was one strategy for decomposing this problem into a smaller, more manageable problem?
+
+1 / 1 point
+
+Design an algorithm that counts how often luggage is left unattended.
+
+
+Design an algorithm that can differentiate between airport staff and travelers.
+
+
+Define a specific type of suspicious behavior in quantifiable terms.
+
+
+Use machine learning to track which parts of the airport is the busiest.
+
+Correct
+Correct! In order to solve a complex problem like airport surveillance, it’s helpful to breakdown the problem into something specific and quantifiable.
+
+2.
+Question 2
+When designing an algorithm that will detect unattended luggage, what kind of information would likely NOT be ​relevant to this problem?
+
+1 / 1 point
+
+The length of time luggage has been left unattended.
+
+
+Whether a piece of luggage is idle or moving.
+
+
+The types of clothing people in an airport are wearing.
+
+
+The distance between attended luggage and its owner.
+
+Correct
+Correct! When trying to detect suspicious packages, the clothing of people in the airport is unrelated to whether luggage is unattended or not.
+
+3.
+Question 3
+Using the following algorithm, what would happen if the luggage in one video frame is not seen in the next frame?
+
+
+1 / 1 point
+
+The algorithm generates a warning.
+
+
+No warning is given, and the algorithm checks if there are more objects to categorize in the frame.
+
+
+The algorithm checks to see if the luggage is accompanied by a human.
+
+
+ The algorithm checks to see how long the luggage has been moving.
+
+Correct
+Correct! The algorithm shows that if an object has been moved the focus should shift to checking other objects.
+
+4.
+Question 4
+Since computer-based solutions require questions that are specific and quantifiable, which one of the following questions is most appropriate for a computer-based solution?
+
+1 / 1 point
+
+How many people have entered the airport in the past two hours?
+
+
+What kind of luggage is the most aesthetically pleasing?
+
+
+Why is flying better than driving a car?
+
+
+What kind of behavior is suspicious?
+
+Correct
+Correct! This question is specific and quantifiable – it is asking about how many people have entered within a specific time frame.
+
+5.
+Question 5
+What is an algorithm? Choose the best answer:
+
+1 / 1 point
+
+The breaking down of a large, complex problem, into smaller more manageable problem.
+
+
+The process of identifying patterns that can lead you to a potential solution.
+
+
+The process of identifying parts of a problem that can be ignored when approaching a problem.
+
+
+A process or defined set of rules used by a computer for solving an identified problem.
+
+Correct
+Correct! Algorithms determine a process or a set of rules that a computer can follow. 

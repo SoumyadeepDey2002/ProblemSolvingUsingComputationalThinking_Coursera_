@@ -1,0 +1,107 @@
+Airport Surveillance Practice Questions Set 2
+TOTAL POINTS 6
+1.
+Question 1
+You are currently developing a new surveillance algorithm that flags illegal substances for airport security officers. You are still early in the development process, and there are some known issues with the algorithm. Given this criteria, which of the following situations would be most appropriate for testing this new algorithm?
+
+1 / 1 point
+
+A large, crowded airport, with 24 hours of video that needs to be analyzed.
+
+
+A crowded airport with 10 minutes of video that needs to be analyzed.
+
+
+A small, unoccupied airport, with a 10-minute long video that needs to be analyzed.
+
+
+A small, unoccupied airport, with 24 hours of video that needs to be analyzed.
+
+Correct
+Correct! When you are testing a new algorithm, it’s preferable to start with small, simple video samples. 
+
+2.
+Question 2
+True or False: Machine Learning is a subset of Artificial Intelligence. 
+
+1 / 1 point
+
+F​alse
+
+
+T​rue
+
+Correct
+Correct! Machine learning is a subset of artificial intelligence. It involves teaching a computer by feeding it data to help it form meanings and categories (for example, using many images to learn what luggage and people look like). Doing this allows the computer to perform more complex tasks.
+
+3.
+Question 3
+In the airport surveillance case study, what kinds of technology are needed in order to identify objects and people? Please select the best answer. 
+
+1 / 1 point
+
+Artificial Intelligence
+
+
+Machine Learning
+
+
+Algorithms
+
+
+All of the above
+
+Correct
+Correct! In the airport surveillance case, artificial intelligence, machine learning, and algorithms were all needed in order to identify objects and people. While machine learning and artificial intelligence help train the computer with new information, algorithms are needed in order to quantify complex problems into more specific decisions.  
+
+4.
+Question 4
+To solve the problem of finding suspicious packages/luggage in an airport, which elements in the video can be ignored from video analysis?
+
+1 / 1 point
+
+Where packages/luggage are in the frame
+
+
+People who are not moving
+
+
+Background signs and posters
+
+
+The proximity between people and luggage 
+
+Correct
+Correct! These items are fixed in the frame and are not suspicious. Ignoring them can speed along the analysis of the rest of the frame.
+
+5.
+Question 5
+In your own words, describe (1) what an algorithm is, and (2) what an algorithm is used for. 
+
+1 / 1 point
+An algorithm is a set of instructions given to a computer to do a certain task, it can have if/else conditions ,loops, functions ,etc
+Correct
+Answers can vary.
+
+Broadly defined, an algorithm is a process to be followed in problem-solving operations, often performed by a computer.
+An algorithm, therefore, is a tool that is used to solve a problem. It is important, however, to ask a well-designed question that a computer can help you solve.
+6.
+Question 6
+Identifying suspicious luggage at an airport is a complex problem. In your own words, describe how this problem was decomposed into smaller sub-problems.
+
+1 / 1 point
+
+1-Seperating the foreground and background using Machine learning
+2-Indentitfy moving and stationary objects
+3-See if a luggage has been left without it's human owner for a long time
+Correct
+Some of the problem decompositions that were discussed were:
+
+How can you define “suspicious” in terms of time, space, and distance
+How are videos stored in a computer and what tools are available to manipulate and analyze them
+Can you build an algorithm that differentiates luggage from other objects
+Can you build an algorithm that detects movement
+Can an algorithm track luggage as it enters/leaves the airport
+Can an algorithm track people
+How long is “too long” for luggage to be by itself
+The exercise of breaking down larger problems into smaller ones makes it so that we can now identify some ways in which we can realistically approach coming up with an answer.
