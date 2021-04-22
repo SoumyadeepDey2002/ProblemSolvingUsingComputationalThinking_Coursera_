@@ -1,0 +1,48 @@
+Week 1 - 
+
+Computational thinking - 
+
+1.Problem identification
+2.Decomposition
+3.Pattern recognition
+4.Abstraction
+
+1.Problem identification - 
+
+-> Have we identified a problem that is "solvable" with a computer? Because some problems cannot be solved with computers.
+
+-> How can we know when a problem is a good candidate for using a computer to generate a solution?
+
+-> How might we incorporate different kinds of data to solve this type of probem?
+
+
+Things to think about..
+
+a)Topic:What is the big problem we are trying to solve?Can you state this in a problem statement?Is this problem statement too broad or vague?
+
+b)Data:What information or data do we have to solve the problem and what more data do we need to solve the problem.
+
+c)Feasibility: Can you solve the problem given what you know? Is this problem solvable with a computer?
+
+2.Decomposition - 
+
+-> Try to break the problem into smaller sub problems which will be easier and more straight forward to solve.
+
+-> Sometimes, you can use flow charts, a tree structure, or another graphic organizer to help with this.
+
+3.Pattern recognition
+
+-> Can we find familiar patterns or characteristics that can lead us to potentia solutions.
+
+-> Finding the similarities or patterns amount the smaller,decomposed problems that can help us solve these problems more efficiently.
+
+-> Can we think of similar problems that have been solved before..
+
+4.Abstraction
+
+-> Can we find non-essential aspects of our problem that we can ignore?
+
+-> This involves filterng out, or ignoring, aspects of the problem or any patterns you might have identified in order to concentrate on the necessary aspects of the problem or potential solution.
+
+-> Identifying instances when consdering unnecessary or too many components of a problem can lead to situations when you'r trying to do too much at the risk of an effective problem solution.
+

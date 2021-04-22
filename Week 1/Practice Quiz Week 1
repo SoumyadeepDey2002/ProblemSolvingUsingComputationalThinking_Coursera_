@@ -1,0 +1,37 @@
+Q)In your own words, define the following aspects of computational thinking: Problem Identification, Decomposition, Pattern Recognition, Abstraction.
+
+1 / 1 point
+
+
+Ans - Problem Identification - This phase is about identifying if the problem is solvable with a computer or not. We also try to think about what is the big problem we are trying to solve? Can we state this in a problem statement? What information or data do we have which will assist or help us to solve the problem.
+
+Decomposition - We try to break the problem into smaller sub problems which will be easier and more straight forward to solve(the sub problems can also have sub problems of their own).Sometimes, we can use flow charts, a tree structure, or another graphic organizer to help make this process easier and more organized.
+
+Pattern recognition - Pattern recognition is all about trying to find similar patterns or characteristics that can lead us to potential solutions. Finding familiar patterns can help us solve decomposed sub problems more efficiently.
+We can also try to find if similar problems were solved before.
+
+Abstraction - This process involves filtering out or ignoring ,aspects of the problem or any patterns we have identified to help us focus more on the core problem or finding out the potential solution. We also need to identify instance when considering unnecessary or too many components can hinder us from finding the effective problem solution.
+
+Official ans - 
+
+Problem Identification: Problem identification involves identifying a problem and determining if it’s appropriate for a computer based solution. 
+
+Decomposition: Decomposition involves breaking down a complex problem into smaller, more specific problems. 
+
+Pattern Recognition: Pattern recognition involves noticing and describing similarities in smaller, more decomposed problems.
+
+Abstraction: Abstraction involves filtering out or ignoring less relevant information.
+
+Q)Once you’ve identified a problem that may be ‘solvable’ through computational thinking,  you need to decompose the topic further by creating sub-problems. In your own words, explain why we need to decompose complex problems in order for a computer to solve it.
+
+1 / 1 point
+
+Ans - We need to decompose complex problems in order for a computer to solve it because -
+
+1.Breaking the problem into smaller sub problems which will be easier and more straightforward to solve will also help the programmer understand exactly what instructions to give, when writing a program(The programmer can also write functions for solving different sub problems).
+
+2.We can use flow charts, tree structures or other graphic organizers which help us to break the problem into smaller and easier pieces enabling us to create solutions of each sub problem and hence creating the solution of the entire complex problem.
+
+3.It is also psychologically really hard to understand a huge complex problem as a whole without breaking it down into sub problems.
+
+Official ans - The decomposition process is very important in the computational thinking process. Since computers tend to work best with specific questions that have objective answers, you may find that smaller, more decomposed sub-problems help solve larger, more complex problems.
