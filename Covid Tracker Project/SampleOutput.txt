@@ -1,0 +1,23 @@
+Initially Suscetible people : 5000
+Initially Infected people : 1
+How many people can a infected person infect before recovery : 11
+RecoveryRate : 0.6
+MortalityRate : 0.05
+Total Number of people : 5001
+
+***************************************************
+Month 0 : 5000     1     0      0
+Month 1 : 3489     12     7      0
+Month 2 : 1934     60     36      3
+Month 3 : 203     252     151      12
+Month 4 : 0     103     61      5
+Month 5 : 0     37     22      1
+Month 6 : 0     14     8      0
+Month 7 : 0     6     3      0
+Month 8 : 0     3     1      0
+Month 9 : 0     2     1      0
+Month 10 : 0     1     0      0
+Month 11 : 0     0     0      0
+People saved by Vaccination : 4500
+People recovered from COVID 19 :466
+Total Deaths : 35
