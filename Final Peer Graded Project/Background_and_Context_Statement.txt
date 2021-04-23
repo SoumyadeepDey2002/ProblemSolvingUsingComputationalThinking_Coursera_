@@ -1,0 +1,5 @@
+Background and Context Statement
+In one paragraph, please describe any background information and context for your project. In this paragraph, you should clearly define the natural disaster and the location of your project. You do not need to describe your computational thinking process.
+
+For my final project I am taking a hypothetical scenario that I am part of local authority in Kannur, a district in the state of Kerala, India which receives a huge amount of torrential rain during the monsoon. Our district has a major river in which a dam is built on. The local authorities should decide how and when water should be released before the heavy rainfall and they should also give flood alerts without posing threat to the residents near the dam river premises. Usually in these cases the residents move to their relatives' home. However the authorities should consider relocating the residents to rehabilitation centers or some other safe places for temporary stay, food, and medical care in case of excessive flood.
+
