@@ -12,6 +12,7 @@ int main()
     cout<<"Initially Suscetible people : "<<S<<endl;
     cout<<"Initially Infected people : "<<I<<endl;
     cout<<"How many people can a infected person infect before recovery : "<<r0<<endl;
+    cout<<"Vaccination Availabe per month : "<<V<<endl;
     cout<<"RecoveryRate : "<<RecoveryRate<<endl;
     cout<<"MortalityRate : "<<MortalityRate<<endl;
 
