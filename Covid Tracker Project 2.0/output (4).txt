@@ -1,0 +1,67 @@
+Lockdown in the months :
+6
+7
+8
+15
+16
+17
+18
+Initially Suscetible people : 50000
+Initially Infected people : 10
+How many people can a infected person infect before recovery : 6
+Vaccination available per month : 1000
+RecoveryRate : 0.8
+MortalityRate : 0.02
+Total Number of people : 50010
+
+***************************************************
+Month 0 : 50000     10     0      0
+Month 1 :   48940      70      56       1
+Month 2 :   47862      91      72       1
+Month 3 :   46754      126      100       2
+Month 4 :   45610      168      134       3
+Month 5 :   44424      217      173       4
+Month 6 :   43304      160      128       3
+Month 7 :   42217      116      92       2
+Month 8 :   41151      88      70       1
+Month 9 :   40049      119      95       2
+Month 10 :   38917      154      123       3
+Month 11 :   37749      196      156       3
+Month 12 :   36527      259      207       5
+Month 13 :   35245      329      263       6
+Month 14 :   33885      420      336       8
+Month 15 :   32657      304      243       6
+Month 16 :   31492      220      176       4
+Month 17 :   30372      160      128       3
+Month 18 :   29285      116      92       2
+Month 19 :   28153      154      123       3
+Month 20 :   26985      196      156       3
+Month 21 :   25763      259      207       5
+Month 22 :   24481      329      263       6
+Month 23 :   23121      420      336       8
+Month 24 :   21665      532      425       10
+Month 25 :   20083      679      543       13
+Month 26 :   18345      861      688       17
+Month 27 :   16409      1092      873       21
+Month 28 :   14221      1386      900       27
+Month 29 :   10467      3213      900       64
+Month 30 :   0      12716      900      254
+Month 31 :   0      11562      900      231
+Month 32 :   0      10431      900      208
+Month 33 :   0      9323      900      186
+Month 34 :   0      8237      900      164
+Month 35 :   0      7173      900      143
+Month 36 :   0      6130      900      122
+Month 37 :   0      5108      900      102
+Month 38 :   0      4106      900      82
+Month 39 :   0      3124      900      62
+Month 40 :   0      2162      900      43
+Month 41 :   0      1219      900      24
+Month 42 :   0      295      236      5
+Month 43 :   0      54      43      1
+Month 44 :   0      10      8      0
+Month 45 :   0      2      1      0
+Month 46 :   0      1      0      0
+People saved by Vaccination : 29000
+People recovered from COVID 19 :19147
+Total Deaths : 1863
